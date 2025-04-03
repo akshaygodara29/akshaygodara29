@@ -1,6 +1,6 @@
 - 👋 Hola,I'm Akshay Godara.
 - 👀 I’m Full stack Developer.
-- 🌱 I’m currently Working on Angular.
+- 🌱 I’m currently Working on Angular and DotNet Core
 - 💞️ I’m looking to collaborate on You Tube.
 
 <!---
